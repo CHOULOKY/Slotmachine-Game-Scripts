@@ -1,7 +1,7 @@
 # Slotmachine Game
 [![license](https://img.shields.io/badge/License-MIT-red)](https://github.com/CHOULOKY/Isaac-Imitation?tab=MIT-1-ov-file)
-[![code](https://img.shields.io/badge/Code-Solidity-363636?logo=solidity&logoColor=363636)](https://soliditylang.org/)
-[![IDE](https://img.shields.io/badge/Framework-Remix-000000?logo=remix&logoColor=000000)](https://remix.run/)
+[![code](https://img.shields.io/badge/Code-Solidity-363636?logo=solidity&logoColor=white)](https://soliditylang.org/)
+[![IDE](https://img.shields.io/badge/Framework-Remix-000000?logo=remix&logoColor=white)](https://remix.run/)
 
 <br><br><br>
 
